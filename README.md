@@ -55,6 +55,10 @@ export default defineConfig({
 ```
 npm install --save-dev cypress @testing-library/cypress
 ```
-**Add `Cypress Testing Library` in `cypress/support/commands.js`**
+**Add `Cypress Testing Library` in `cypress/support/commands.ts`**
 ```
 import '@testing-library/cypress/add-commands';
+
+```
+## Run Cypress with
+`npx cypress open`
