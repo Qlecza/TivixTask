@@ -1,0 +1,21 @@
+{
+  "name": "tivixtask",
+  "version": "1.0.0",
+  "description": "Tivix Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.6.0",
+    "esbuild": "^0.17.10",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.4"
+  }
+}
