@@ -1,5 +1,5 @@
 # TivixTask
-Test Automation for Tivix
+I choose cucumber plugin for this task to match BDD requirements. I saw there is some option to do this in vanila Cy but i stayed with this plugin.
 
 ## Tech Assigement
 
